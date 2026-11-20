@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105795392378",
+    "project_id": "matkabook",
+    "storage_bucket": "matkabook.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105795392378:android:db8d5e2f15962436667cc3",
+        "android_client_info": {
+          "package_name": "com.matkabook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfrESmFXNMHeoqsEaeYjhVfxCjSvWK30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
