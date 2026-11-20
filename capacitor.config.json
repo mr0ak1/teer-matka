@@ -5,7 +5,7 @@
   "bundledWebRuntime": false,
   "server": {
     "url": "https://matkabook.win/app",
-    "allowNavigation": ["*"],
+    "allowNavigation": ["*", "ekqr.in", "*.ekqr.in"],
     "cleartext": true
   },
   "plugins": {
